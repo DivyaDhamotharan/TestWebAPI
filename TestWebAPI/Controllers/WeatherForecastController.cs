@@ -4,7 +4,7 @@ namespace TestWebAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class WeatherForecastController : ControllerBase1
     {
         private static readonly string[] Summaries = new[]
         {
